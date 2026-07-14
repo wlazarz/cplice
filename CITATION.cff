@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite the CPLICE paper and preserve
+  attribution to the software author.
+title: CPLICE
+type: software
+authors:
+  - family-names: Łazarz
+    given-names: Weronika Olga
+license: BSD-3-Clause
+repository-code: https://github.com/REPLACE-WITH-REPOSITORY-URL
+abstract: >-
+  Research software for categorical pseudo-labeling with iterative cluster
+  expansion, categorical distance matrices, representative-object selection,
+  competitive pseudo-labeling methods, and evaluation metrics.
+keywords:
+  - pseudo-labeling
+  - semi-supervised learning
+  - categorical data
+  - clustering
+  - CPLICE
+preferred-citation:
+  type: article
+  title: Categorical Pseudo-Labeling with Iterative Cluster Expansion
+  authors:
+    - family-names: Łazarz
+      given-names: Weronika Olga
+    - family-names: Nowak-Brzezińska
+      given-names: Agnieszka Justyna
+  journal: Procedia Computer Science
+  volume: '270'
+  start: '937'
+  end: '946'
+  year: '2025'
+  doi: 10.1016/j.procs.2025.09.214
